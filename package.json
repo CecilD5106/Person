@@ -1,0 +1,15 @@
+{
+  "name": "dal_name",
+  "version": "1.0.0",
+  "description": "Access to mysql database name table",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cecil Davis",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "mysql": "^2.17.1"
+  }
+}
